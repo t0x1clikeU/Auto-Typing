@@ -17,7 +17,7 @@
 
 ```bash
 pip install pyautogui pytesseract pillow keyboard pyperclip pywin32
-
+```
 ## 🛠️ 使い方
 1. `main.py` を実行します。
 2. 初回起動時、Tesseract の存在を確認します。インストールされていない場合はダウンロードリンクが表示され、URLが自動でクリップボードにコピーされます。
