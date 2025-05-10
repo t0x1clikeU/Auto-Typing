@@ -28,3 +28,6 @@ pip install pyautogui pytesseract pillow keyboard pyperclip pywin32
    - 選択範囲が `coords.json` に保存されます（次回から自動読み込み）。
 4. 認識されたテキストが自動的にキーボード入力されます。
 5. スクリプトを終了するには、ウィンドウを閉じるか `Ctrl + C` で停止してください。
+
+使用動画
+[Youtube](https://www.youtube.com/watch?v=hsmz4dzfpfI)
